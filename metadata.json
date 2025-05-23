@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Voice Chat",
+  "description": "An application where you can chat with an AI, and it will speak its responses aloud using browser Text-to-Speech. The AI chat functionality is powered by Gemini."
+}
